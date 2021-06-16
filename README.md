@@ -23,6 +23,8 @@ The Skills Summit is ideal for people who:
 * Skilled trainers: Online teaching best practice
 * Outcomes and impact: Training for research excellence - measuring impact  
 * Outcomes and impact: Stories from beyond the classroom - skills training impact stories (researchers/research support staff)
+* Other skills and training activities, initiatives and opportunities
+## Skills challenge sessions
 * Skills challenge - Training demos - up and running with <blank> in five minutes  [Not really a theme, but could be part of a skills development workshop or lightning talks - taster for a range of skills]
 * Skills challenge - Hacky hour - Ask me anything [panel sessions]
-* Other skills and training activities, initiatives and opportunities - all three
+
