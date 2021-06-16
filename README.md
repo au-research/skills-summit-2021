@@ -25,7 +25,7 @@ The Skills Summit is ideal for people who:
 * Outcomes and impact: Training for research excellence - measuring impact  
 * Outcomes and impact: Stories from beyond the classroom - skills training impact stories (researchers/research support staff)
 * Other skills and training activities, initiatives and opportunities
-### Submission types
+### Submission types (as per eRAU Conference)
 * Keynotes and invited speakers - 40 min presentation + 10 mins questions.
 * Oral Presentations - 15 mins + 5 mins for questions. Pre-recorded presentations will be offered. Live Q&A.
 * BOFs - large (90 mins), medium (60 mins) and small (30 mins).
