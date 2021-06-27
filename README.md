@@ -1,5 +1,5 @@
 # Skills Summit 2021
-ARDC’s Digital Research Skills Summit 2020 will focus on the discovery, coordination, design, development and delivery of digital skills training and resources for research. The Skills Summit will set the agenda for the skills space for the coming year. Review achievements, identify challenges from the past year, and set goals and actions for the year ahead
+ARDC’s Digital Research Skills Summit 2021 will focus on the discovery, coordination, design, development and delivery of digital skills training and resources for research. The Skills Summit will set the agenda for the skills space for the coming year. Review achievements, identify challenges from the past year, and set goals and actions for the year ahead.
 ## Skills Summit objectives:
 * A networking space for skills practitioners
 * A forum for exchanging best practice in pedagogy and community building
